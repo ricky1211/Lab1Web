@@ -18,7 +18,7 @@ screenshotnya.
 6. Kirim URL repository pada e-learning ecampus.
 
 ## Tampilan awal HTML
-![0.1](main/Screenshot/Screenshot%20(218).png)
+![0.1](Screenshot/Screenshot%20(218).png)
 
 #### *Note*
 Tag dalam HTML adalah kode yang digunakan untuk mengidentifikasi dan mendefinisikan elemen atau bagian dari halaman web. Tag dimulai dengan tanda kurung sudut (<>) dan berisi nama elemen, seperti `<tag>` untuk membuka elemen dan `</tag>` untuk menutup elemen. Elemen ini membentuk struktur dan tata letak halaman web, serta memungkinkan penampilan dan perilaku yang sesuai. Contohnya, `<title>` adalah elemen yang digunakan untuk menentukan judul halaman web yang akan ditampilkan di tab atau judul jendela browser. Isi dari elemen `<title>` akan muncul sebagai teks di bilah judul browser, memungkinkan pengguna untuk mengidentifikasi halaman web yang mereka buka. 
