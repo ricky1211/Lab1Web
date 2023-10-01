@@ -24,17 +24,17 @@ screenshotnya.
 Tag dalam HTML adalah kode yang digunakan untuk mengidentifikasi dan mendefinisikan elemen atau bagian dari halaman web. Tag dimulai dengan tanda kurung sudut (<>) dan berisi nama elemen, seperti `<tag>` untuk membuka elemen dan `</tag>` untuk menutup elemen. Elemen ini membentuk struktur dan tata letak halaman web, serta memungkinkan penampilan dan perilaku yang sesuai. Contohnya, `<title>` adalah elemen yang digunakan untuk menentukan judul halaman web yang akan ditampilkan di tab atau judul jendela browser. Isi dari elemen `<title>` akan muncul sebagai teks di bilah judul browser, memungkinkan pengguna untuk mengidentifikasi halaman web yang mereka buka. 
 
 ## Tampilan pada WEB
-![1.2](Screenshot%20(219).png)
+![1.2](Screenshot/Screenshot%20(219).png)
 
 ## 1. Membuat Paragraf
 
 **Hasil :**
 
-![1.1](Screenshot%20(220).png)
+![1.1](Screenshot/Screenshot%20(220).png)
 
 **Hasil**
 
-![1.2](Screenshot%20(221).png)
+![1.2](Screenshot/Screenshot%20(221).png)
 
 #### *Note :*
 `<p>` Adalah tag untuk membuat paragraf.
@@ -44,11 +44,11 @@ Tag dalam HTML adalah kode yang digunakan untuk mengidentifikasi dan mendefinisi
 
 **Hasil :**
 
-![2.1](Screenshot%20(222).png)
+![2.1](Screenshot/Screenshot%20(222).png)
 
 **Hasil**
 
-![2.2](Screenshot%20(223).png)
+![2.2](Screenshot/Screenshot%20(223).png)
 
 #### *Note :*
 `<h>` Pada HTML, <h> adalah tag yang digunakan untuk menandai judul atau heading (kepala) dalam dokumen. <h> diikuti dengan angka dari 1 hingga 6, yaitu `<h1>, <h2>, <h3>, <h4>, <h5>, `dan `<h6>`. Setiap angka menunjukkan tingkat atau tingkat kepentingan yang berbeda untuk judul, di mana `<h1>` adalah yang paling tinggi dan `<h6>` adalah yang terendah.
@@ -57,11 +57,11 @@ Tag dalam HTML adalah kode yang digunakan untuk mengidentifikasi dan mendefinisi
 
 **Hasil :**
 
-![3.1](Screenshot%20(224).png)
+![3.1](Screenshot/Screenshot%20(224).png)
 
 **HASIL**
 
-![3.2](Screenshot%20(225).png)
+![3.2](Screenshot/Screenshot%20(225).png)
 
 #### *Note :*
 Format dalam HTML mengacu pada cara mendesain dan mempresentasikan konten teks, gambar, dan elemen lain pada halaman web. Format memungkinkan Anda untuk mengubah tata letak, gaya, dan penampilan halaman web agar lebih menarik dan mudah dibaca. Beberapa elemen dan properti format paling umum dalam HTML meliputi:
@@ -97,11 +97,11 @@ Format dalam HTML mengacu pada cara mendesain dan mempresentasikan konten teks, 
 
 **Hasil :**
 
-![4.1](Screenshot%20(231).png)
+![4.1](Screenshot/Screenshot%20(231).png)
 
 **Hasil :**
 
-![4.2](Screenshot%20(230).png)
+![4.2](Screenshot/Screenshot%20(230).png)
 
 #### *Note :*
 Untuk memunculkan gambar pada HTML jika gambar tersebut ada dalam file lokal di komputer atau server, Anda dapat menggunakan elemen `<img>` (image) dengan atribut src (source) untuk menunjukkan lokasi file gambar.
@@ -112,11 +112,11 @@ gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang dises
 
 **Hasil :**
 
-![5.1](Screenshot%20(227).png)
+![5.1](Screenshot/Screenshot%20(227).png)
 
 **Hasil :**
 
-![5.2](Screenshot%20(229).png)
+![5.2](Screenshot/Screenshot%20(229).png)
 
 #### *Note :*
 `<a>` (anchor) dalam HTML digunakan untuk membuat tautan atau hyperlink yang menghubungkan ke halaman web, sumber daya, atau bagian-bagian tertentu dari halaman yang sama. Fungsi utamanya adalah memungkinkan navigasi antara berbagai dokumen atau bagian-bagian dalam dokumen yang sama.
